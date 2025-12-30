@@ -1,5 +1,5 @@
-import React from 'react'
-import profile from '../assets/images/profilePicture.png'
+// import React from 'react'
+import profile from '../assets/images/profile.jpg'
 import { HERO_CONTENT } from '../content'
 import { motion } from 'framer-motion'
 
